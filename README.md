@@ -20,7 +20,7 @@
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
 ```bash
-https://alejandrosilgado.github.io/The_Grain.github.co/
+https://github.com/alejandroSilgado/The_Grain.github.co.git
 ```
 
 2. Abre el archivo `index.html` en tu navegador favorito.
