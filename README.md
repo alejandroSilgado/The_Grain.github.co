@@ -1,4 +1,4 @@
-# README - Alejandro Silgado
+## The Grain
 
 ¡Hola! 👋 Soy Alejandro Silgado, desarrollador y creador de "The Grain", una página web dedicada a ofrecer una experiencia única en café. Aquí encontrarás detalles sobre mi proyecto y cómo puedes explorarlo.
 
@@ -17,8 +17,7 @@
 
 ## Link de la pagina 
 Este es el link donde puedes ingresar a mi pagina, revisala te va a encantar.
-https://alejandrosilgado.github.io/The_Grain.github.co/ 
-
+https://thegrain.netlify.app/
 ## Cómo Explorar
 
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
